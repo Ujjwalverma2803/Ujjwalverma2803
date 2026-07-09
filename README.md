@@ -18,6 +18,8 @@ AI-integrated architectures.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -25,9 +27,9 @@ AI-integrated architectures.
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **URL Shortener** | Production microservices with Redis caching, JWT auth, Base62 slugs, click analytics | FastAPI · Redis · PostgreSQL · Docker | [Live](https://url-shortener-service-vend.onrender.com/docs) · [Repo](https://github.com/Ujjwalverma2803/url-shortener) |
-| **AI RAG System** | Distributed RAG pipeline with Qdrant vector search and Redis semantic caching | Flask · Qdrant · Redis · Gemini API | [Repo](https://github.com/Ujjwalverma2803) |
-| **Interview Integrity Studio** | AI proctoring with client-side gaze tracking and object detection | Python · Next.js · TensorFlow.js | [Live](https://interview-proctoring-flame.vercel.app/) · [Repo](https://github.com/Ujjwalverma2803) |
+| **URL Shortener** | Production microservices with Redis caching, JWT auth, Base62 slugs, and click analytics | FastAPI · Redis · PostgreSQL · Docker | [Live](https://url-shortener-service-vend.onrender.com/docs) · [Repo](https://github.com/Ujjwalverma2803/url-shortener) |
+| **AI RAG News Chatbot** | Distributed RAG pipeline with Qdrant vector search, Redis semantic caching, and Gemini API orchestration | Flask · Qdrant · Redis · Gemini API · Next.js | [Backend](https://github.com/Ujjwalverma2803/rag-news-chatbot-backend) · [Frontend](https://github.com/Ujjwalverma2803/rag-news-chatbot-frontend) |
+| **Interview Integrity Studio** | AI proctoring platform with client-side gaze tracking, audio monitoring, and object detection | Python · Next.js · PostgreSQL · TensorFlow.js | [Live](https://interview-proctoring-flame.vercel.app/) · [Repo](https://github.com/Ujjwalverma2803/Interview-proctoring) |
 
 ---
 
