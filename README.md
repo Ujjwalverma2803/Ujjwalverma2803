@@ -28,7 +28,8 @@ AI-integrated architectures.
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **URL Shortener** | Production-grade URL shortening service with independent FastAPI microservices, Redis caching, JWT auth, Base62 slug generation, tiered rate limiting, and real-time click analytics | FastAPI · Redis · PostgreSQL · Docker · Render | [Live](https://url-shortener-service-vend.onrender.com/docs) · [Repo](https://github.com/Ujjwalverma2803/url-shortener) |
-| **Interview Integrity Studio** | AI proctoring platform with fully client-side gaze tracking, audio monitoring, and object detection via TensorFlow.js — zero server-side video processing | Python · Next.js · PostgreSQL · TensorFlow.js | [Live](https://interview-proctoring-flame.vercel.app/) · [Frontend](https://github.com/Ujjwalverma2803/Interview-proctoring) · [Backend](https://github.com/Ujjwalverma2803/Interview-proctoring-backend) |
+| **Distributed Job Queue** | Production-grade job queue with Bull, priority queuing, exponential backoff retry, dead letter queue, and tiered rate limiting | Node.js · TypeScript · Bull · Redis · PostgreSQL | [Live](https://job-queue-api-wuz7.onrender.com/health) · [Repo](https://github.com/Ujjwalverma2803/job-queue-system) |
+| **Interview Integrity Studio** | AI proctoring platform with fully client-side gaze tracking, audio monitoring, and object detection via TensorFlow.js | Python · Next.js · PostgreSQL · TensorFlow.js | [Live](https://interview-proctoring-flame.vercel.app/) · [Frontend](https://github.com/Ujjwalverma2803/Interview-proctoring) · [Backend](https://github.com/Ujjwalverma2803/Interview-proctoring-backend) |
 
 ---
 
